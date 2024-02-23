@@ -118,7 +118,7 @@ built with enterprise in mind.
  
 
   <div className="flex gap-5 p-20">
-  <div className="text-[#190034] w-[200px@">
+  <div className="text-[#190034] ">
   <img src="/landing/fifth.png" />
   <h1 className="text-[25px] my-2">Speed up analysis</h1>
   <p>
