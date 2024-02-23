@@ -1,4 +1,4 @@
-import NavBar from "@/Components/NavBar";
+import NavBar from "@/app/(Components)/NavBar";
 import {Plus_Jakarta_Sans} from "next/font/google";
 const jakrata = Plus_Jakarta_Sans({weight:"700",subsets: ["latin"]});
 

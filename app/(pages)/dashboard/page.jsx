@@ -1,4 +1,4 @@
-import LeftBar from '@/Components/LeftBar'
+import LeftBar from '@/app/(Components)/LeftBar'
 import { Plus_Jakarta_Sans } from 'next/font/google'
 import React from 'react'
 const jakrata = Plus_Jakarta_Sans({weight:"700",subsets: ["latin"]});
